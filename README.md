@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img height="150" alt="banner github" src="https://github.com/user-attachments/assets/4ddb3a3a-bcdd-4798-a472-98494feb3374" />
+  <img height="auto" alt="banner github" src="Imagens\banner github.png" />
 </div>
 
 <br />
@@ -22,13 +22,15 @@
 
 <br /><br />
 
-<h2>👨🏽‍💻 Sobre mim</h2>
+<h2 align="center"> <img src="Imagens/Perfil.svg" width="15"/> Sobre mim</h2>
 
-<p>
+<p align="center">
 Eu sou a pessoa que faz a ponte entre o <b>visual bonito</b> e o <b>código que funciona</b>. Minha missão é simples: transformar ideias em <b>sites fáceis de usar e que chamam a atenção</b>.
 </p>
 
-<p>Eu trabalho em três frentes principais:</p>
+<p align="center">Eu trabalho em três frentes principais:</p>
+
+<div align="center">
 
 | O que eu faço | Foco Principal | Por que isso é importante? |
 |---------------|---------------|----------------------------|
@@ -36,13 +38,17 @@ Eu sou a pessoa que faz a ponte entre o <b>visual bonito</b> e o <b>código que 
 | UX/UI Design | Pensar na sua experiência | Para que usar o site seja simples, lógico e agradável. |
 | Web Design | Cuidar do visual | Para que o visual do site combine com a marca e seja moderno. |
 
+</div>
+
+
 <br />
 <br />
 
-<h2> 🔧 Minhas Ferramentas Favoritas </h2>
+<h2 align="center"> <img src="Imagens/ferramentas.svg" width="20"/> Minhas Ferramentas Favoritas</h2>
 
-<div>
-  <h3 style="display:inline;">💻 Para Codar (Front-end)</h3>
+<div align="center">
+<h3> <img src="Imagens/frontend.svg" width="20"/> Para Codar (Front-end)</h3>
+
   <span>
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="40" alt="bootstrap logo"  />
   <img width="12" />
@@ -60,12 +66,13 @@ Eu sou a pessoa que faz a ponte entre o <b>visual bonito</b> e o <b>código que 
 
 <br />
 
-<div>
-  <h3 style="display:inline;">🖌️ Para Criar (Design e UX/UI)</h3>
+<div align="center">
+<h3> <img src="Imagens/design.svg" width="17"/> Para Criar (Design e UX/UI)</h3>
+
   <span>
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/affinity%20designer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white" />
+  <img src="https://img.shields.io/badge/affinity-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white" height="40" />
   </span>
 </div>
 
@@ -73,9 +80,9 @@ Eu sou a pessoa que faz a ponte entre o <b>visual bonito</b> e o <b>código que 
 <br />
 <br />
 
-<h2>✨ Um Pouco Mais Sobre Mim</h2>
+<h2 align="center"> <img src="Imagens/estrela.svg" width="25"/> Um Pouco Mais Sobre Mim</h2>
 
-<p>
+<p align="center">
 Sou movido por <b>curiosidade</b>, <b>organização</b> e pela vontade de criar experiências digitais que realmente façam sentido para as pessoas.
 Gosto de entender o <b>problema por trás do projeto</b> antes de partir para o código ou para o visual.
 </p>
@@ -87,7 +94,7 @@ Gosto de entender o <b>problema por trás do projeto</b> antes de partir para o 
   <li>Construir interfaces <b>acessíveis, responsivas e intuitivas</b>.</li>
   <li>Aprofundar meus estudos em <b>Design Systems</b> e boas práticas de UI.</li>
   <li>Evoluir constantemente no equilíbrio entre <b>design</b> e <b>performance</b>.</li>
-  <li>Manter a criatividade funcionando com um bom <b>café</b> ☕</li>
+  <li>Manter a criatividade funcionando com um bom <b>café</b> <img src="Imagens/cafe.svg" width="15"/> </li>
 </ul>
 
 <br />
@@ -102,7 +109,7 @@ Gosto de entender o <b>problema por trás do projeto</b> antes de partir para o 
 <br />
 <br />
 
-<h2>📊 Estatísticas do GitHub</h2>
+<h2 align="center"> <img src="Imagens/grafico.svg" width="20"/> Estatísticas do GitHub</h2>
 
 <div align="center">
   <img
