@@ -116,11 +116,11 @@ Gosto de entender o <b>problema por trás do projeto</b> antes de partir para o 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kauareis-web&show_icons=true&bg_color=0D1117&title_color=005387&icon_color=005387&text_color=FFFFFF&card_width=350&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kauareis-web&layout=compact&bg_color=0D1117&title_color=005387&text_color=FFFFFF&card_width=300&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kauareis-web&show_icons=true&bg_color=0D1117&title_color=005387&icon_color=005387&text_color=FFFFFF&card_width=350)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kauareis-web&layout=compact&bg_color=0D1117&title_color=005387&text_color=FFFFFF&card_width=300)
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kauareis-web&bg_color=0D1117&color=005387&line=005387&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kauareis-web&bg_color=0D1117&color=005387&line=005387&point=FFFFFF&area=true&hide_border=false" width="100%" />
 
 </div>
