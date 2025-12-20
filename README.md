@@ -117,7 +117,7 @@ Gosto de entender o <b>problema por trás do projeto</b> antes de partir para o 
 <div align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=kauareis-web&show_icons=true&bg_color=0D1117&title_color=005387&text_color=FFFFFF&icon_color=005387&border_color=005387"
-    height="150"
+    height="80"
     alt="GitHub stats"
   />
 
@@ -125,7 +125,27 @@ Gosto de entender o <b>problema por trás do projeto</b> antes de partir para o 
 
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=kauareis-web&layout=compact&bg_color=0D1117&title_color=005387&text_color=FFFFFF&border_color=005387"
-    height="150"
+    height="80"
     alt="Top languages"
   />
 </div>
+
+<h2 align="center">
+  <img src="Imagens/grafico.svg" width="20" />
+  Estatísticas do GitHub
+</h2>
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=kauareis-web&show_icons=true&bg_color=0D1117&title_color=005387&text_color=FFFFFF&icon_color=005387&border_color=005387"
+    width="420"
+    alt="GitHub stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=kauareis-web&layout=compact&bg_color=0D1117&title_color=005387&text_color=FFFFFF&border_color=005387"
+    width="360"
+    alt="Top languages"
+  />
+</div>
+
