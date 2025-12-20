@@ -110,42 +110,17 @@ Gosto de entender o <b>problema por trás do projeto</b> antes de partir para o 
 <br />
 
 <h2 align="center">
-  <img src="Imagens/grafico.svg" width="20" />
-  Estatísticas do GitHub
+  <img src="Imagens/grafico.svg" width="25" />
+  <em> Estatísticas </em>
 </h2>
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=kauareis-web&show_icons=true&bg_color=0D1117&title_color=005387&text_color=FFFFFF&icon_color=005387&border_color=005387"
-    height="80"
-    alt="GitHub stats"
-  />
 
-  <img width="40" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kauareis-web&show_icons=true&bg_color=0D1117&title_color=005387&icon_color=005387&text_color=FFFFFF&card_width=350&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kauareis-web&layout=compact&bg_color=0D1117&title_color=005387&text_color=FFFFFF&card_width=300&hide_border=true)
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=kauareis-web&layout=compact&bg_color=0D1117&title_color=005387&text_color=FFFFFF&border_color=005387"
-    height="80"
-    alt="Top languages"
-  />
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kauareis-web&bg_color=0D1117&color=005387&line=005387&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
 </div>
-
-<h2 align="center">
-  <img src="Imagens/grafico.svg" width="20" />
-  Estatísticas do GitHub
-</h2>
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=kauareis-web&show_icons=true&bg_color=0D1117&title_color=005387&text_color=FFFFFF&icon_color=005387&border_color=005387"
-    width="420"
-    alt="GitHub stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=kauareis-web&layout=compact&bg_color=0D1117&title_color=005387&text_color=FFFFFF&border_color=005387"
-    width="360"
-    alt="Top languages"
-  />
-</div>
-
