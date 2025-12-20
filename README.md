@@ -50,17 +50,17 @@ Eu sou a pessoa que faz a ponte entre o <b>visual bonito</b> e o <b>código que 
 <h3> <img src="Imagens/frontend.svg" width="20"/> Para Codar (Front-end)</h3>
 
   <span>
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="40" alt="bootstrap logo"  />
+    <img src="https://img.shields.io/badge/Bootstrap-005387?logo=bootstrap&logoColor=white&style=for-the-badge" height="40" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
+  <img src="https://img.shields.io/badge/HTML5-005387?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="40" alt="css logo"  />
+  <img src="https://img.shields.io/badge/CSS-005387?logo=css&logoColor=white&style=for-the-badge" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
+  <img src="https://img.shields.io/badge/JavaScript-005387?logo=javascript&logoColor=white&style=for-the-badge" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
+  <img src="https://img.shields.io/badge/Python-005387?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="vscode logo"  />
+  <img src="https://img.shields.io/badge/Visual Studio Code-005387?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="vscode logo"  />
   </span>
 </div>
 
@@ -70,9 +70,9 @@ Eu sou a pessoa que faz a ponte entre o <b>visual bonito</b> e o <b>código que 
 <h3> <img src="Imagens/design.svg" width="17"/> Para Criar (Design e UX/UI)</h3>
 
   <span>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="40" alt="figma logo"  />
+  <img src="https://img.shields.io/badge/Figma-005387?logo=figma&logoColor=white&style=for-the-badge" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/affinity-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/Affinity-005387?style=for-the-badge&logo=affinity-designer&logoColor=white" height="40" alt="Affinity logo" />
   </span>
 </div>
 
@@ -109,11 +109,14 @@ Gosto de entender o <b>problema por trás do projeto</b> antes de partir para o 
 <br />
 <br />
 
-<h2 align="center"> <img src="Imagens/grafico.svg" width="20"/> Estatísticas do GitHub</h2>
+<h2 align="center">
+  <img src="Imagens/grafico.svg" width="20" />
+  Estatísticas do GitHub
+</h2>
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=kauareis-web&show_icons=true&theme=dracula"
+    src="https://github-readme-stats.vercel.app/api?username=kauareis-web&show_icons=true&bg_color=0D1117&title_color=005387&text_color=FFFFFF&icon_color=005387&border_color=005387"
     height="150"
     alt="GitHub stats"
   />
@@ -121,7 +124,7 @@ Gosto de entender o <b>problema por trás do projeto</b> antes de partir para o 
   <img width="40" />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=kauareis-web&layout=compact&theme=dracula"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=kauareis-web&layout=compact&bg_color=0D1117&title_color=005387&text_color=FFFFFF&border_color=005387"
     height="150"
     alt="Top languages"
   />
