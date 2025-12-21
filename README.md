@@ -111,16 +111,19 @@ Gosto de entender o <b>problema por trás do projeto</b> antes de partir para o 
 
 <h2 align="center">
   <img src="Imagens/grafico.svg" width="25" />
-  <em> Estatísticas </em>
+  Estatísticas
 </h2>
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kauareis-web&show_icons=true&bg_color=0D1117&title_color=005387&icon_color=005387&text_color=FFFFFF&card_width=350)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kauareis-web&layout=compact&bg_color=0D1117&title_color=005387&text_color=FFFFFF&card_width=300)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kauareis-web&show_icons=true&bg_color=0D1117&title_color=005387&icon_color=005387&text_color=FFFFFF&border_color=FFFFFF&card_width=310&hide_border=false)
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=kauareis-web&card_width=310&background=0D1117&border=FFFFFF&text_color=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF&stats=FFFFFF&labels=FFFFFF&ring=005387&fire=005387)
+
+
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kauareis-web&bg_color=0D1117&color=005387&line=005387&point=FFFFFF&area=true&hide_border=false" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kauareis-web&bg_color=0D1117&color=005387&line=005387&point=FFFFFF&area=true&border_color=FFFFFF" width="100%" />
 
 </div>
+
