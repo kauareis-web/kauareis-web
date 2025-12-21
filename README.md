@@ -28,6 +28,8 @@
 Eu sou a pessoa que faz a ponte entre o <b>visual bonito</b> e o <b>código que funciona</b>. Minha missão é simples: transformar ideias em <b>sites fáceis de usar e que chamam a atenção</b>.
 </p>
 
+<br />
+
 <p align="center">Eu trabalho em três frentes principais:</p>
 
 <div align="center">
@@ -89,22 +91,24 @@ Gosto de entender o <b>problema por trás do projeto</b> antes de partir para o 
 
 <br />
 
+<div align="center">
+
 <b>Atualmente, estou focado em:</b>
-<ul>
-  <li>Construir interfaces <b>acessíveis, responsivas e intuitivas</b>.</li>
   <li>Aprofundar meus estudos em <b>Design Systems</b> e boas práticas de UI.</li>
   <li>Evoluir constantemente no equilíbrio entre <b>design</b> e <b>performance</b>.</li>
+  <li>Construir interfaces <b>acessíveis, responsivas e intuitivas</b>.</li>
   <li>Manter a criatividade funcionando com um bom <b>café</b> <img src="Imagens/cafe.svg" width="15"/> </li>
-</ul>
 
+
+<br />
 <br />
 
 <b>Próximos objetivos:</b>
-<ul>
+
   <li>Dominar um framework front-end moderno como <b>React</b> ou <b>Vue</b>.</li>
   <li>Participar de projetos <b>open-source</b> que unam design e código.</li>
   <li>Colaborar em produtos digitais que tenham <b>impacto real</b>.</li>
-</ul>
+</div>
 
 <br />
 <br />
@@ -117,9 +121,7 @@ Gosto de entender o <b>problema por trás do projeto</b> antes de partir para o 
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kauareis-web&show_icons=true&bg_color=0D1117&title_color=005387&icon_color=005387&text_color=FFFFFF&border_color=FFFFFF&card_width=310&hide_border=false)
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=kauareis-web&card_width=310&background=0D1117&border=FFFFFF&text_color=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF&stats=FFFFFF&labels=FFFFFF&ring=005387&fire=005387)
-
-
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=kauareis-web&theme=dark&background=0D1117&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=005387&ring=005387&stroke=fffffff&currStreakLabel=ffffff&card_width=401)
 
 <br/><br/>
 
