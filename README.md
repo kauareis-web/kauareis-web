@@ -25,12 +25,12 @@
 <h2 align="center"> <img src="Imagens/Perfil.svg" width="15"/> Sobre mim</h2>
 
 <p align="center">
-Eu sou a pessoa que faz a ponte entre o <b>visual bonito</b> e o <b>código que funciona</b>. Minha missão é simples: transformar ideias em <b>sites fáceis de usar e que chamam a atenção</b>.
+Eu sou a pessoa que faz a ponte entre o visual bonito e o código que funciona. Minha missão é simples: transformar ideias em sites fáceis de usar e que chamam a atenção.
 </p>
 
 <br />
 
-<p align="center">Eu trabalho em três frentes principais:</p>
+<p align="center"><b>Eu trabalho em três frentes principais:</b></p>
 
 <div align="center">
 
@@ -83,8 +83,8 @@ Eu sou a pessoa que faz a ponte entre o <b>visual bonito</b> e o <b>código que 
 <h2 align="center"> <img src="Imagens/estrela.svg" width="25"/> Um Pouco Mais Sobre Mim</h2>
 
 <p align="center">
-Sou movido por <b>curiosidade</b>, <b>organização</b> e pela vontade de criar experiências digitais que realmente façam sentido para as pessoas.
-Gosto de entender o <b>problema por trás do projeto</b> antes de partir para o código ou para o visual.
+Sou movido por curiosidade, organização e pela vontade de criar experiências digitais que realmente façam sentido para as pessoas.
+Gosto de entender o problema por trás do projeto antes de partir para o código ou para o visual.
 </p>
 
 <br />
@@ -123,7 +123,7 @@ Colaborar em produtos digitais que tenham <b>impacto real</b>.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kauareis-web&show_icons=true&bg_color=0D1117&title_color=005387&icon_color=005387&text_color=FFFFFF&border_color=FFFFFF&card_width=310&hide_border=false)
 ![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=kauareis-web&theme=dark&background=0D1117&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=005387&ring=005387&stroke=fffffff&currStreakLabel=ffffff&card_width=401)
 
-<br/><br/>
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kauareis-web&bg_color=0D1117&color=005387&line=005387&point=FFFFFF&area=true&border_color=FFFFFF" width="100%" />
 
