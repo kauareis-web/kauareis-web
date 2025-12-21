@@ -34,14 +34,13 @@ Eu sou a pessoa que faz a ponte entre o <b>visual bonito</b> e o <b>código que 
 
 <div align="center">
 
-| O que eu faço | Foco Principal | Por que isso é importante? |
-|---------------|---------------|----------------------------|
-| Front-end | Criar a parte do site que você vê | Para que o site seja rápido e funcione bem em qualquer tela. |
-| UX/UI Design | Pensar na sua experiência | Para que usar o site seja simples, lógico e agradável. |
-| Web Design | Cuidar do visual | Para que o visual do site combine com a marca e seja moderno. |
+| O que eu faço | Foco Principal                    | Por que isso é importante?                                    |
+| ------------- | --------------------------------- | ------------------------------------------------------------- |
+| Front-end     | Criar a parte do site que você vê | Para que o site seja rápido e funcione bem em qualquer tela.  |
+| UX/UI Design  | Pensar na sua experiência         | Para que usar o site seja simples, lógico e agradável.        |
+| Web Design    | Cuidar do visual                  | Para que o visual do site combine com a marca e seja moderno. |
 
 </div>
-
 
 <br />
 <br />
@@ -78,7 +77,6 @@ Eu sou a pessoa que faz a ponte entre o <b>visual bonito</b> e o <b>código que 
   </span>
 </div>
 
-
 <br />
 <br />
 
@@ -94,20 +92,22 @@ Gosto de entender o <b>problema por trás do projeto</b> antes de partir para o 
 <div align="center">
 
 <b>Atualmente, estou focado em:</b>
-  <li>Aprofundar meus estudos em <b>Design Systems</b> e boas práticas de UI.</li>
-  <li>Evoluir constantemente no equilíbrio entre <b>design</b> e <b>performance</b>.</li>
-  <li>Construir interfaces <b>acessíveis, responsivas e intuitivas</b>.</li>
-  <li>Manter a criatividade funcionando com um bom <b>café</b> <img src="Imagens/cafe.svg" width="15"/> </li>
 
+Aprofundar meus estudos em <b>Design Systems</b> e boas práticas de UI.<br>
+Evoluir constantemente no equilíbrio entre <b>design</b> e <b>performance</b>.<br>
+Construir interfaces <b>acessíveis, responsivas e intuitivas</b>.<br>
+Manter a criatividade funcionando com um bom <b>café.</b>
+<img src="Imagens/cafe.svg" width="15" /><br>
 
 <br />
 <br />
 
 <b>Próximos objetivos:</b>
 
-  <li>Dominar um framework front-end moderno como <b>React</b> ou <b>Vue</b>.</li>
-  <li>Participar de projetos <b>open-source</b> que unam design e código.</li>
-  <li>Colaborar em produtos digitais que tenham <b>impacto real</b>.</li>
+Dominar um framework front-end moderno como <b>React</b> ou <b>Vue</b>.<br>
+Participar de projetos <b>open-source</b> que unam design e código.<br>
+Colaborar em produtos digitais que tenham <b>impacto real</b>.
+
 </div>
 
 <br />
@@ -128,4 +128,3 @@ Gosto de entender o <b>problema por trás do projeto</b> antes de partir para o 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kauareis-web&bg_color=0D1117&color=005387&line=005387&point=FFFFFF&area=true&border_color=FFFFFF" width="100%" />
 
 </div>
-
