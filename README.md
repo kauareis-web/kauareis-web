@@ -120,8 +120,8 @@ Colaborar em produtos digitais que tenham <b>impacto real</b>.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=kauareis-web&rank_icon=github&bg_color=0D1117&title_color=005387&text_color=FFFFFF&icon_color=005387&border_color=FFFFFF)
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=kauareis-web&theme=dark&background=0D1117&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=005387&ring=005387&stroke=fffffff&currStreakLabel=ffffff&card_width=401)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=kauareis-web&rank_icon=github&card_width=320&bg_color=0D1117&title_color=005387&text_color=FFFFFF&icon_color=005387&border_color=FFFFFF)
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=kauareis-web&card_width=320&background=0D1117&border=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF&stats=FFFFFF&labels=FFFFFF&ring=005387&fire=005387)
 
 <br/>
 
