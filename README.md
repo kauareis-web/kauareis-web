@@ -22,7 +22,7 @@
 
 <br /><br />
 
-<h2 align="center"> <img src="Imagens/Perfil.svg" width="15"/> Sobre mim</h2>
+<h2 align="center"> <img src="Imagens/Perfil.svg" width="15"/>  Sobre mim</h2>
 
 <p align="center">
 Eu sou a pessoa que faz a ponte entre o visual bonito e o código que funciona. Minha missão é simples: transformar ideias em sites fáceis de usar e que chamam a atenção.
@@ -45,10 +45,10 @@ Eu sou a pessoa que faz a ponte entre o visual bonito e o código que funciona. 
 <br />
 <br />
 
-<h2 align="center"> <img src="Imagens/ferramentas.svg" width="20"/> Minhas Ferramentas Favoritas</h2>
+<h2 align="center"> <img src="Imagens/ferramentas.svg" width="20"/>  Minhas Ferramentas Favoritas</h2>
 
 <div align="center">
-<h3> <img src="Imagens/frontend.svg" width="20"/> Para Codar (Front-end)</h3>
+<h3> <img src="Imagens/frontend.svg" width="20"/>  Para Codar (Front-end)</h3>
 
   <span>
     <img src="https://img.shields.io/badge/Bootstrap-005387?logo=bootstrap&logoColor=white&style=for-the-badge" height="40" alt="bootstrap logo"  />
@@ -68,7 +68,7 @@ Eu sou a pessoa que faz a ponte entre o visual bonito e o código que funciona. 
 <br />
 
 <div align="center">
-<h3> <img src="Imagens/design.svg" width="17"/> Para Criar (Design e UX/UI)</h3>
+<h3> <img src="Imagens/design.svg" width="17"/>  Para Criar (Design e UX/UI)</h3>
 
   <span>
   <img src="https://img.shields.io/badge/Figma-005387?logo=figma&logoColor=white&style=for-the-badge" height="40" alt="figma logo"  />
@@ -80,7 +80,7 @@ Eu sou a pessoa que faz a ponte entre o visual bonito e o código que funciona. 
 <br />
 <br />
 
-<h2 align="center"> <img src="Imagens/estrela.svg" width="25"/> Um Pouco Mais Sobre Mim</h2>
+<h2 align="center"> <img src="Imagens/estrela.svg" width="25"/>  Um Pouco Mais Sobre Mim</h2>
 
 <p align="center">
 Sou movido por curiosidade, organização e pela vontade de criar experiências digitais que realmente façam sentido para as pessoas.
@@ -96,7 +96,7 @@ Gosto de entender o problema por trás do projeto antes de partir para o código
 Aprofundar meus estudos em <b>Design Systems</b> e boas práticas de UI.<br>
 Evoluir constantemente no equilíbrio entre <b>design</b> e <b>performance</b>.<br>
 Construir interfaces <b>acessíveis, responsivas e intuitivas</b>.<br>
-Manter a criatividade funcionando com um bom <b>café.</b>
+Manter a criatividade funcionando com um bom <b>café.</b> 
 <img src="Imagens/cafe.svg" width="15" /><br>
 
 <br />
@@ -115,7 +115,7 @@ Colaborar em produtos digitais que tenham <b>impacto real</b>.
 
 <h2 align="center">
   <img src="Imagens/grafico.svg" width="25" />
-  Estatísticas
+    Estatísticas
 </h2>
 
 <div align="center">
